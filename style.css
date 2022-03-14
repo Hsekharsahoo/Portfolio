@@ -269,7 +269,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "what i provide";
+    content: "what i mostly do";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -363,7 +363,7 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 70%;
 }
 .skills-content .right .css::before{
     width: 60%;
@@ -372,7 +372,7 @@ section .title::after{
     width: 60%;
 }
 .skills-content .right .cpp::before{
-    width: 70%;
+    width: 80%;
 }
 .skills-content .right .mysql::before{
     width: 70%;
