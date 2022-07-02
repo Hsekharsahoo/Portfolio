@@ -1,5 +1,5 @@
 # Portfolio
-###Portfolio website made using HTML,CSS and JavaScript
+### Portfolio website made using HTML,CSS and JavaScript
 
 [Link to website ](https://himanshu-portfolio-01.netlify.app/)
 
